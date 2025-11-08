@@ -31,13 +31,9 @@ Tiles can also be **deleted** dynamically, and the layout tree automatically upd
 A **recursive file explorer** built with **React + TypeScript**, demonstrating tree traversal and nested component rendering.  
 You can expand or collapse folders, create new files or directories, and visualize the hierarchical data structure interactively.
 
-### 2. ✅ Checkbox Planner Tree
-
-A **checkbox planner Tree** built with **React + TypeScript**.
-
 #### 🔗 Live Demo
 
-[https://recursive-projects-collection.netlify.app/file-structure](https://recursive-projects-collection.netlify.app/file-structure)
+[https://recursive-projects-collection.netlify.app/file-tree](https://recursive-projects-collection.netlify.app/file-tree)
 
 #### ✨ Features
 
@@ -46,6 +42,12 @@ A **checkbox planner Tree** built with **React + TypeScript**.
 - ➕ **Dynamic creation** — add files or folders at any depth.
 - 🗑️ **Smart deletion** — removing a folder deletes all nested children.
 - ⚡ **State-driven architecture** — built entirely with React hooks and local state.
+
+---
+
+### 3. ✅ Checkbox Planner Tree
+
+A **checkbox planner Tree** built with **React + TypeScript**.
 
 ---
 
