@@ -49,6 +49,10 @@ You can expand or collapse folders, create new files or directories, and visuali
 
 A **checkbox planner Tree** built with **React + TypeScript**.
 
+#### 🔗 Live Demo
+
+[https://recursive-projects-collection.netlify.app/checkbox](https://recursive-projects-collection.netlify.app/checkbox)
+
 ---
 
 ## 🛠️ Tech Stack
