@@ -8,6 +8,8 @@ Tiles can also be **deleted** dynamically, and the layout tree automatically upd
 
 ## 🚀 Demo
 
+https://infinite-window-partitioner.netlify.app/
+
 ---
 
 ## 🎯 Features
