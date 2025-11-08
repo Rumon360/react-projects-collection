@@ -1,7 +1,6 @@
-# 🧩 Recursive Projects Collection
+# 🧩 Advanced React Projects Collection
 
-A collection of **recursive React applications** built with **React + TypeScript**, each showcasing recursive data structures and UI interactions.  
-Both projects are deployed under the same domain with different routes.
+A collection of **Advanced React UI Projects** built with **React + TypeScript**, each showcasing complex react UI interactions.
 
 ---
 
@@ -31,6 +30,10 @@ Tiles can also be **deleted** dynamically, and the layout tree automatically upd
 
 A **recursive file explorer** built with **React + TypeScript**, demonstrating tree traversal and nested component rendering.  
 You can expand or collapse folders, create new files or directories, and visualize the hierarchical data structure interactively.
+
+### 2. ✅ Checkbox Planner Tree
+
+A **checkbox planner Tree** built with **React + TypeScript**.
 
 #### 🔗 Live Demo
 
