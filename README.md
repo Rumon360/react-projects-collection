@@ -14,7 +14,7 @@ Tiles can also be **deleted** dynamically, and the layout tree automatically upd
 
 #### 🔗 Live Demo
 
-[https://recursive-projects-collection.netlify.app/partitioner](https://recursive-projects-collection.netlify.app/partitioner)
+[https://react-projects-collection.netlify.app/partitioner](https://react-projects-collection.netlify.app/partitioner)
 
 #### ✨ Features
 
@@ -33,7 +33,7 @@ You can expand or collapse folders, create new files or directories, and visuali
 
 #### 🔗 Live Demo
 
-[https://recursive-projects-collection.netlify.app/file-tree](https://recursive-projects-collection.netlify.app/file-tree)
+[https://react-projects-collection.netlify.app/file-tree](https://react-projects-collection.netlify.app/file-tree)
 
 #### ✨ Features
 
@@ -51,7 +51,7 @@ A **checkbox planner Tree** built with **React + TypeScript**.
 
 #### 🔗 Live Demo
 
-[https://recursive-projects-collection.netlify.app/checkbox](https://recursive-projects-collection.netlify.app/checkbox)
+[https://react-projects-collection.netlify.app/checkbox](https://react-projects-collection.netlify.app/checkbox)
 
 ---
 
