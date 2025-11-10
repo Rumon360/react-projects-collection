@@ -53,6 +53,14 @@ A **checkbox planner Tree** built with **React + TypeScript**.
 
 [https://react-projects-collection.netlify.app/checkbox](https://react-projects-collection.netlify.app/checkbox)
 
+### 4. 🪹 Nested Comments
+
+A **Nested Comments** built with **React + TypeScript**.
+
+#### 🔗 Live Demo
+
+[https://react-projects-collection.netlify.app/nested-comments](https://react-projects-collection.netlify.app/nested-comments)
+
 ---
 
 ## 🛠️ Tech Stack

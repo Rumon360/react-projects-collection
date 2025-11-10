@@ -13,6 +13,10 @@ const projects = [
     name: "✅ Checkbox Planner Tree",
     link: "checkbox",
   },
+  {
+    name: "🪹 Nested Comments",
+    link: "nested-comments",
+  },
 ];
 
 function App() {

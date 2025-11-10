@@ -1,12 +1,14 @@
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router";
-import App from "./App";
 
 import "./index.css";
 
+// Routes
+import App from "./App";
 import Checkbox from "./pages/checkbox";
 import Partitioner from "./pages/partitioner";
 import FileTree from "./pages/file-tree";
+import NestedComments from "./pages/nested-comments";
 
 const root = document.getElementById("root")!;
 
@@ -17,6 +19,7 @@ ReactDOM.createRoot(root).render(
       <Route path="partitioner" element={<Partitioner />} />
       <Route path="file-tree" element={<FileTree />} />
       <Route path="checkbox" element={<Checkbox />} />
+      <Route path="nested-comments" element={<NestedComments />} />
     </Routes>
   </BrowserRouter>
 );
