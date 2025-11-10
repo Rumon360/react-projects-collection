@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "content": "This article was super helpful, thanks for sharing!",
+    "votes": 23,
+    "timestamp": "2025-11-10T09:12:45Z",
+    "replies": [
+      {
+        "id": 2,
+        "content": "Glad you found it useful!",
+        "votes": 5,
+        "timestamp": "2025-11-10T10:01:32Z",
+        "replies": [
+          {
+            "id": 15,
+            "content": "Could you make a follow-up post on performance optimization?",
+            "votes": 17,
+            "timestamp": "2025-11-10T09:55:40Z",
+            "replies": [
+              {
+                "id": 16,
+                "content": "Yes please! Especially about memoization techniques.",
+                "votes": 11,
+                "timestamp": "2025-11-10T10:22:00Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "content": "I agree, it clarified a lot of things for me too.",
+        "votes": 3,
+        "timestamp": "2025-11-10T10:15:12Z",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "I think some parts could use more examples, but overall great read.",
+    "votes": 12,
+    "timestamp": "2025-11-10T08:44:01Z",
+    "replies": [
+      {
+        "id": 5,
+        "content": "Yeah, especially the section about async functions!",
+        "votes": 7,
+        "timestamp": "2025-11-10T09:00:21Z",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "Can someone explain the difference between 'let' and 'const' again?",
+    "votes": 8,
+    "timestamp": "2025-11-10T11:20:58Z",
+    "replies": [
+      {
+        "id": 7,
+        "content": "Sure! 'const' means the variable can't be reassigned, while 'let' can.",
+        "votes": 14,
+        "timestamp": "2025-11-10T11:45:30Z",
+        "replies": []
+      },
+      {
+        "id": 8,
+        "content": "It’s also about block scoping — both are block-scoped, unlike 'var'.",
+        "votes": 6,
+        "timestamp": "2025-11-10T12:00:05Z",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "content": "The UI design in the screenshots looks really clean!",
+    "votes": 19,
+    "timestamp": "2025-11-10T07:32:15Z",
+    "replies": []
+  },
+  {
+    "id": 10,
+    "content": "I'm having trouble running the code in Node 20. Anyone else?",
+    "votes": 4,
+    "timestamp": "2025-11-10T09:48:12Z",
+    "replies": [
+      {
+        "id": 11,
+        "content": "Try updating your dependencies — that fixed it for me.",
+        "votes": 9,
+        "timestamp": "2025-11-10T10:05:10Z",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "content": "Love how concise this explanation is. Straight to the point.",
+    "votes": 15,
+    "timestamp": "2025-11-10T08:20:00Z",
+    "replies": []
+  },
+  {
+    "id": 13,
+    "content": "Could you make a follow-up post on performance optimization?",
+    "votes": 17,
+    "timestamp": "2025-11-10T09:55:40Z",
+    "replies": [
+      {
+        "id": 14,
+        "content": "Yes please! Especially about memoization techniques.",
+        "votes": 11,
+        "timestamp": "2025-11-10T10:22:00Z",
+        "replies": []
+      }
+    ]
+  }
+]
