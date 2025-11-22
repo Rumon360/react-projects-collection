@@ -17,6 +17,10 @@ const projects = [
     name: "🪹 Nested Comments",
     link: "nested-comments",
   },
+  {
+    name: "👾 Vercel Hero Remake",
+    link: "vercel-hero-remake",
+  },
 ];
 
 function App() {

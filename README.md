@@ -61,6 +61,14 @@ A **Nested Comments** built with **React + TypeScript**.
 
 [https://react-projects-collection.netlify.app/nested-comments](https://react-projects-collection.netlify.app/nested-comments)
 
+### 5. 👾 Vercel Hero Remake
+
+Remake of the vercel hero section built with **React + TypeScript + TailwindCSS**.
+
+#### 🔗 Live Demo
+
+[https://react-projects-collection.netlify.app/vercel-hero-remake](https://react-projects-collection.netlify.app/vercel-hero-remake)
+
 ---
 
 ## 🛠️ Tech Stack
