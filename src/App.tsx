@@ -17,6 +17,10 @@ const projects = [
     name: "🪹 Nested Comments",
     link: "nested-comments",
   },
+  {
+    name: "📖 Kanban Board",
+    link: "kanban-board",
+  },
 ];
 
 function App() {
@@ -37,7 +41,7 @@ function App() {
             <Link
               key={project.link}
               to={project.link}
-              className="px-6 py-3 border border-neutral-300 rounded-lg transition-all duration-200"
+              className="px-6 py-3 border border-neutral-300 rounded-lg bg-zinc-900 hover:bg-zinc-800 transition-colors ease-in-out duration-200"
             >
               {project.name}
             </Link>

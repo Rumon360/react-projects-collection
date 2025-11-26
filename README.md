@@ -61,6 +61,14 @@ A **Nested Comments** built with **React + TypeScript**.
 
 [https://react-projects-collection.netlify.app/nested-comments](https://react-projects-collection.netlify.app/nested-comments)
 
+### 5. 📖 Kanban Board
+
+A **Kanban Board** built with **React + TypeScript**.
+
+#### 🔗 Live Demo
+
+[https://react-projects-collection.netlify.app/kanban-board](https://react-projects-collection.netlify.app/kanban-board)
+
 ---
 
 ## 🛠️ Tech Stack
