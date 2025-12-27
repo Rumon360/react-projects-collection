@@ -21,6 +21,10 @@ const projects = [
     name: "📖 Kanban Board",
     link: "kanban-board",
   },
+  {
+    name: "🌀 Elastic Counter",
+    link: "elastic-counter",
+  },
 ];
 
 function App() {

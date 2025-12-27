@@ -10,6 +10,7 @@ import Partitioner from "./pages/partitioner";
 import FileTree from "./pages/file-tree";
 import NestedComments from "./pages/nested-comments";
 import KanbanBoard from "./pages/kanban-board";
+import ElasticCounter from "./pages/elastic-counter";
 
 const root = document.getElementById("root")!;
 
@@ -22,6 +23,7 @@ ReactDOM.createRoot(root).render(
       <Route path="checkbox" element={<Checkbox />} />
       <Route path="nested-comments" element={<NestedComments />} />
       <Route path="kanban-board" element={<KanbanBoard />} />
+      <Route path="elastic-counter" element={<ElasticCounter />} />
     </Routes>
   </BrowserRouter>
 );
